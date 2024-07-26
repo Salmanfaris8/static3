@@ -1,0 +1,90 @@
+*{
+    box-sizing: border-box;
+}
+.nav-a1:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: darkslategrey;
+    border-radius: 30px;
+}  
+.cur-d1{
+    margin-bottom: 250px;
+}
+.r-d1{
+    margin-top: -30px;
+}
+#card{
+    position: relative;
+    margin-bottom: 100px;
+}
+.card-d1{
+    margin-top: -80px;
+}
+.card-d12{
+    background-color: aliceblue;
+    width: 250px;
+    height: 350px;
+}
+.card-d12:hover{
+    background-color: cadetblue;
+    color: white;
+}
+.card-d12:hover .card-a1{
+    background-color: rgb(99, 99, 245);
+    border: solid 1px rgb(99, 99, 245);
+}
+.main-d1:hover{
+    background-image:linear-gradient(to bottom,white, gray, black);
+    border-radius: 10px;
+    color: white;
+}
+.main-d1:hover .main-a{
+    text-decoration: underline;
+}
+.con-a1:hover{
+    background-image: url(https://th.bing.com/th/id/OIP.6arFvXYlJHhN8qpde-Af_wAAAA?rs=1&pid=ImgDetMain);
+    background-size: contain;
+}
+.cont-img{
+    margin-left: 500px;
+}
+.curs-p1{
+    margin-bottom: 40%;
+}
+.main-img{
+    border-radius: 50%;
+}
+.slide-d12:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.sup-d1:hover .sup-d12{
+    color: chocolate;
+ }
+.sup-d1:hover .a-d12{
+    text-decoration: underline;
+ }
+.bg-for{
+    height: 500px;
+    background-image: url(https://images.pexels.com/photos/18609055/pexels-photo-18609055/free-photo-of-a-house-with-wires-and-a-blue-sky.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+}
+.drop{
+    background-color: rgba(240, 248, 255, 0.004);
+    color: white;
+}
+.des{
+    background-color: white; 
+    color: black;
+}
+.b1{
+    cursor: pointer;
+}
+.bg-h5{
+    padding-top: 50px;
+}
+.bg-h2{
+    padding-top: 100px;
+}
+
+
+  
+
